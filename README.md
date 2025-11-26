@@ -1,7 +1,7 @@
 # OSPF Area 0 Lab (Cisco Packet Tracer)
 
 ## 📌 Overview
-This lab demonstrates OSPF Multi-Area configuration between 4 Cisco routers using Packet Tracer.
+### This lab demonstrates OSPF Area 0 configuration between 3 Cisco routers using GNS3 .
 
 ## 🔧 Technologies Used
 - GNS
