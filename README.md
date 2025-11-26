@@ -1,4 +1,4 @@
-# OSPF Area 0 Lab (Cisco Packet Tracer)
+# OSPF Area 0 Lab (GNS3)
 
 ## 📌 Overview
 ### This lab demonstrates OSPF Area 0 configuration between 3 Cisco routers using GNS3 .
